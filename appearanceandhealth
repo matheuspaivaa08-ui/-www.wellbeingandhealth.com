@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vida Ativa Saúde</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f5fdfd;
+    color: #333;
+}
+
+header {
+    background: linear-gradient(90deg, #00c6ff, #0072ff);
+    color: white;
+    text-align: center;
+    padding: 60px 20px;
+}
+
+header h1 {
+    font-size: 32px;
+    margin-bottom: 15px;
+}
+
+header p {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.btn {
+    background-color: #25D366;
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 30px;
+    display: inline-block;
+}
+
+section {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.benefits {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.box {
+    background: white;
+    width: 250px;
+    margin: 15px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.testimonial {
+    background: #ffffff;
+    margin: 20px auto;
+    max-width: 600px;
+    padding: 20px;
+    border-left: 5px solid #0072ff;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.cta {
+    background: linear-gradient(90deg, #0072ff, #00c6ff);
+    color: white;
+    padding: 50px 20px;
+}
+
+footer {
+    background: #0072ff;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>Cuide da Sua Saúde Antes Que Ela Cobre o Preço</h1>
+    <p>Soluções completas para garantir segurança, qualidade de vida e tranquilidade para você e sua família.</p>
+    <a href="https://wa.me/5500000000000" class="btn">Quero Falar no WhatsApp</a>
+</header>
+
+<section>
+    <h2>Por que escolher nossos serviços?</h2>
+    <div class="benefits">
+        <div class="box">
+            <h3>✔ Atendimento Rápido</h3>
+            <p>Sem burocracia e com suporte imediato.</p>
+        </div>
+        <div class="box">
+            <h3>✔ Economia Inteligente</h3>
+            <p>Planos e soluções que cabem no seu bolso.</p>
+        </div>
+        <div class="box">
+            <h3>✔ Segurança Garantida</h3>
+            <p>Proteção completa para sua saúde.</p>
+        </div>
+    </div>
+</section>
+
+<section>
+    <h2>O que nossos clientes dizem</h2>
+
+    <div class="testimonial">
+        <p>"Fechei meu plano em menos de 24h e já utilizei. Atendimento excelente!"</p>
+        <strong>- Cliente Satisfeito</strong>
+    </div>
+
+    <div class="testimonial">
+        <p>"Profissional sério, transparente e direto. Recomendo para todos."</p>
+        <strong>- Maria Silva</strong>
+    </div>
+</section>
+
+<section class="cta">
+    <h2>Não espere precisar para agir.</h2>
+    <p>Fale agora com um especialista e receba uma proposta personalizada.</p>
+    <a href="https://wa.me/5500000000000" class="btn">Receber Proposta Agora</a>
+</section>
+
+<footer>
+    <p>© 2026 Vida Ativa Saúde - Todos os direitos reservados</p>
+</footer>
+
+</body>
+</html>
